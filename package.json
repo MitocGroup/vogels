@@ -24,7 +24,7 @@
     "bunyan": "1.5.x",
     "joi": "5.x.x",
     "lodash": "3.10.x",
-    "node-uuid": "1.4.x"
+    "uuid": "3.0.x"
   },
   "optionalDependencies": {
     "aws-sdk": "2.2.x"
